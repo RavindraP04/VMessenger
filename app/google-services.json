@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31971628266",
+    "project_id": "v-messenger-290aa",
+    "storage_bucket": "v-messenger-290aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31971628266:android:bee950f7a38dbf5a60f393",
+        "android_client_info": {
+          "package_name": "com.example.vmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31971628266-7t4r6ne1r6u62hkcap65s8299vbtbifb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALMrytmGkRrl6jREjTymSLFJE0cpqkIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31971628266-7t4r6ne1r6u62hkcap65s8299vbtbifb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
